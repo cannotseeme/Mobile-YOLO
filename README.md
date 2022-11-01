@@ -9,7 +9,7 @@
 The model is trained on VOC2007+2012 train&val and tested on VOC2007 test dataset with an mAP of 73.1.
 Results on private helmet dataset is 89.3%.
 
-## TO begin
+## To begin
 ### PCs
 Please follow https://github.com/AlexeyAB/darknet to setup. Replace the .cfg and .weights files with our files.
 ### Mobile Devices
