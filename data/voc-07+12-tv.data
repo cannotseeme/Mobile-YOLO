@@ -1,0 +1,6 @@
+classes = 20
+train  = /home/hp/darknet/data/2007+12_trainval.txt
+valid  = /home/hp/darknet/data/2007_test.txt
+names = /home/hp/darknet/data/voc.names
+backup = backup
+
