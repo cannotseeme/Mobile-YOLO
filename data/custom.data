@@ -1,0 +1,6 @@
+classes = 2
+train  = /home/Mobile-YOLO/data/custom_train.txt
+valid  = /home/Mobile-YOLO/data/custom_val.txt
+names = /home/Mobile-YOLO/data/custom.names
+backup = backup
+

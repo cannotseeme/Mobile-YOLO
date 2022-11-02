@@ -1,6 +1,0 @@
-classes = 2
-train  = /home/hp/darknet/data/2020-1_train.txt
-valid  = /home/hp/darknet/data/2020-1_val.txt
-names = /home/hp/darknet/data/my-20-1.names
-backup = backup
-
